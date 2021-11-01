@@ -1,0 +1,3 @@
+AlphabetOnly
+123Num
+/*__*/AlphaWithSymbol
